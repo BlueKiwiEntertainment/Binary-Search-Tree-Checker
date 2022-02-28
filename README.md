@@ -6,4 +6,4 @@ A simple algorithm for checking if a binary tree is BST written in C# no element
 Hope it helps, it runs left-hand-side to right-hand-side
 
 contact:
-bluekewe94@gmail.com
+contact@exmachinasoft.com
